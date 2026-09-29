@@ -1,0 +1,52 @@
+[
+  {
+    "ma_tv": "TV001",
+    "ho_ten": "Nguyễn Văn A",
+    "email": "a@gmail.com",
+    "sdt": "0987654321",
+    "ban": "Truyền thông",
+    "ngay_tham_gia": "22/09/2026",
+    "diem": 60,
+    "trang_thai": "Hoạt động"
+  },
+  {
+    "ma_tv": "TV002",
+    "ho_ten": "Trần Thị B",
+    "email": "b@gmail.com",
+    "sdt": "0912345678",
+    "ban": "Sự kiện",
+    "ngay_tham_gia": "23/09/2026",
+    "diem": 55,
+    "trang_thai": "Hoạt động"
+  },
+  {
+    "ma_tv": "TV003",
+    "ho_ten": "Lê Văn C",
+    "email": "c@gmail.com",
+    "sdt": "0923456789",
+    "ban": "Media",
+    "ngay_tham_gia": "24/09/2026",
+    "diem": 30,
+    "trang_thai": "Hoạt động"
+  },
+  {
+    "ma_tv": "TV004",
+    "ho_ten": "Phạm Thị D",
+    "email": "d@gmail.com",
+    "sdt": "0934567890",
+    "ban": "Truyền thông",
+    "ngay_tham_gia": "25/09/2026",
+    "diem": 35,
+    "trang_thai": "Hoạt động"
+  },
+  {
+    "ma_tv": "TV005",
+    "ho_ten": "Hoàng Văn E",
+    "email": "e@gmail.com",
+    "sdt": "0945678901",
+    "ban": "Sự kiện",
+    "ngay_tham_gia": "26/09/2026",
+    "diem": 20,
+    "trang_thai": "Hoạt động"
+  }
+]
