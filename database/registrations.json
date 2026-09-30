@@ -1,0 +1,34 @@
+[
+    {
+        "ma_dk": "DK001",
+        "ma_tv": "TV001",
+        "ma_sk": "SK001",
+        "ngay_dk": "22/09/2026",
+        "trang_thai": "Đã đăng ký",
+        "co_mat": "Có mặt"
+    },
+    {
+        "ma_dk": "DK002",
+        "ma_tv": "TV002",
+        "ma_sk": "SK002",
+        "ngay_dk": "23/09/2026",
+        "trang_thai": "Đã đăng ký",
+        "co_mat": "Có mặt"
+    },
+    {
+        "ma_dk": "DK003",
+        "ma_tv": "TV003",
+        "ma_sk": "SK003",
+        "ngay_dk": "24/09/2026",
+        "trang_thai": "Đã đăng ký",
+        "co_mat": "Có mặt"
+    },
+    {
+        "ma_dk": "DK004",
+        "ma_tv": "TV006",
+        "ma_sk": "SK006",
+        "ngay_dk": "30/09/2026",
+        "trang_thai": "Đã đăng ký",
+        "co_mat": "Chưa điểm danh"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "ma_thu": "TH001",
+        "ma_tv": "TV001",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Đã đóng",
+        "ngay_thu": "22/09/2026"
+    },
+    {
+        "ma_thu": "TH002",
+        "ma_tv": "TV002",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Chưa đóng",
+        "ngay_thu": ""
+    },
+    {
+        "ma_thu": "TH003",
+        "ma_tv": "TV003",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Đã đóng",
+        "ngay_thu": "23/09/2026"
+    },
+    {
+        "ma_thu": "TH004",
+        "ma_tv": "TV004",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Đã đóng",
+        "ngay_thu": "24/09/2026"
+    },
+    {
+        "ma_thu": "TH005",
+        "ma_tv": "TV006",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Chưa đóng",
+        "ngay_thu": ""
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ma_sk": "SK001",
+        "ten_sk": "Workshop Python",
+        "ngay": "25/09/2026",
+        "dia_diem": "Phòng A101",
+        "diem": 10,
+        "suc_chua": 10
+    },
+    {
+        "ma_sk": "SK002",
+        "ten_sk": "Hội thảo TMĐT",
+        "ngay": "27/09/2026",
+        "dia_diem": "Phòng B102",
+        "diem": 10,
+        "suc_chua": 15
+    },
+    {
+        "ma_sk": "SK003",
+        "ten_sk": "Cuộc thi ảnh",
+        "ngay": "10/10/2026",
+        "dia_diem": "Sân trường",
+        "diem": 10,
+        "suc_chua": 10
+    },
+    {
+        "ma_sk": "SK004",
+        "ten_sk": "Workshop UI/UX",
+        "ngay": "25/09/2026",
+        "dia_diem": "Phòng B201",
+        "diem": 10,
+        "suc_chua": 10
+    },
+    {
+        "ma_sk": "SK005",
+        "ten_sk": "Team Building",
+        "ngay": "02/10/2026",
+        "dia_diem": "Sân vận động HUIT",
+        "diem": 10,
+        "suc_chua": 15
+    }
+]
