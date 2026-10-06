@@ -38,5 +38,29 @@
         "dia_diem": "Sân vận động HUIT",
         "diem": 10,
         "suc_chua": 15
+    },
+    {
+        "ma_sk": "SK006",
+        "ten_sk": "Workshop OOP Python",
+        "ngay": "05/10/2026",
+        "dia_diem": "Phòng C101",
+        "diem": 20,
+        "suc_chua": 40
+    },
+    {
+        "ma_sk": "SK007",
+        "ten_sk": "Workshop OOP Python",
+        "ngay": "05/10/2026",
+        "dia_diem": "Phòng C101",
+        "diem": 20,
+        "suc_chua": 40
+    },
+    {
+        "ma_sk": "SK008",
+        "ten_sk": "Workshop OOP Python",
+        "ngay": "05/10/2026",
+        "dia_diem": "Phòng C101",
+        "diem": 20,
+        "suc_chua": 40
     }
 ]

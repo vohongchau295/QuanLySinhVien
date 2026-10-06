@@ -22,5 +22,29 @@
         "ngay_dk": "24/09/2026",
         "trang_thai": "Đã đăng ký",
         "co_mat": "Có mặt"
+    },
+    {
+        "ma_dk": "DK004",
+        "ma_tv": "TV006",
+        "ma_sk": "SK006",
+        "ngay_dk": "30/09/2026",
+        "trang_thai": "Đã đăng ký",
+        "co_mat": "Chưa điểm danh"
+    },
+    {
+        "ma_dk": "DK005",
+        "ma_tv": "TV007",
+        "ma_sk": "SK007",
+        "ngay_dk": "30/09/2026",
+        "trang_thai": "Đã đăng ký",
+        "co_mat": "Chưa điểm danh"
+    },
+    {
+        "ma_dk": "DK006",
+        "ma_tv": "TV008",
+        "ma_sk": "SK008",
+        "ngay_dk": "30/09/2026",
+        "trang_thai": "Đã đăng ký",
+        "co_mat": "Chưa điểm danh"
     }
 ]

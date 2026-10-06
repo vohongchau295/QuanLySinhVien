@@ -48,5 +48,35 @@
         "ngay_tham_gia": "26/09/2026",
         "diem": 20,
         "trang_thai": "Hoạt động"
+    },
+    {
+        "ma_tv": "TV006",
+        "ho_ten": "Nguyễn Thành Công",
+        "email": "cong@gmail.com",
+        "sdt": "0955555555",
+        "ban": "Truyền thông",
+        "ngay_tham_gia": "30/09/2026",
+        "diem": 35,
+        "trang_thai": "Hoạt động"
+    },
+    {
+        "ma_tv": "TV007",
+        "ho_ten": "Nguyễn Thành Công",
+        "email": "cong@gmail.com",
+        "sdt": "0955555555",
+        "ban": "Truyền thông",
+        "ngay_tham_gia": "30/09/2026",
+        "diem": 35,
+        "trang_thai": "Hoạt động"
+    },
+    {
+        "ma_tv": "TV008",
+        "ho_ten": "Nguyễn Thành Công",
+        "email": "cong@gmail.com",
+        "sdt": "0955555555",
+        "ban": "Truyền thông",
+        "ngay_tham_gia": "30/09/2026",
+        "diem": 35,
+        "trang_thai": "Hoạt động"
     }
 ]

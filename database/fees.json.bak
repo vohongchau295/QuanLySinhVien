@@ -34,5 +34,32 @@
         "noi_dung": "Hội phí năm 2026",
         "trang_thai": "Đã đóng",
         "ngay_thu": "24/09/2026"
+    },
+    {
+        "ma_thu": "TH005",
+        "ma_tv": "TV006",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Chưa đóng",
+        "ngay_thu": ""
+    },
+    {
+        "ma_thu": "TH006",
+        "ma_tv": "TV007",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Chưa đóng",
+        "ngay_thu": ""
+    },
+    {
+        "ma_thu": "TH007",
+        "ma_tv": "TV008",
+        "loai_thu": "Hội phí",
+        "so_tien": 100000,
+        "noi_dung": "Hội phí năm 2026",
+        "trang_thai": "Chưa đóng",
+        "ngay_thu": ""
     }
 ]
